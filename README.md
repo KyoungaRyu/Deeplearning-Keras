@@ -1,8 +1,6 @@
-# Deeplearning-Keras
+# Deep Learning with Python
 
-## Deep Learning with Python
-
-### Deep Learning 101
+### Deep Learning- Keras
 
 Deep Learning with Python introduces the field of deep learning using the Python language and the Keras library.
 To build understanding through intuitive explanations and practical examples is the purpose of this project.
